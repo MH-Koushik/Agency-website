@@ -1,0 +1,8 @@
+font-family: 'DM Sans', sans-serif;
+  
+font-family: 'Syne', sans-serif;
+	Regular 400
+	Medium 500
+	SemiBold 600
+	Bold 700
+
